@@ -1,6 +1,0 @@
-{
-    "routes": [
-      { "src": "/cohort", "dest": "/Cohort.html" }
-    ]
-  }
-  
